@@ -21,7 +21,7 @@
 		<dependency>
 			<groupId>com.qbk</groupId>
 			<artifactId>base-interface</artifactId>
-			<version>${project.version}</version>
+			<version>1.0.0</version>
 		</dependency>
 
 	</dependencies>

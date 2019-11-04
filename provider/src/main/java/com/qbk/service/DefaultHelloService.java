@@ -1,10 +1,6 @@
 package com.qbk.service;
 
-
 import com.alibaba.dubbo.config.annotation.Service;
-
-
-
 
 @Service(version = "${demo.service.version}")
 public class DefaultHelloService implements HelloService {
